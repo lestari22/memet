@@ -1,0 +1,6 @@
+{
+  "name": "Metus Web Reel Studio",
+  "description": "Platform web mandiri untuk upload dan manajemen Reels Facebook & TikTok langsung dari browser tanpa perlu install ekstensi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
